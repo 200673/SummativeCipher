@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Decipher
+comment1.params=text
+comment1.target=java.lang.String\ decrypt(java.lang.String)
+numComments=2
